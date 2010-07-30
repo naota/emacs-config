@@ -1,0 +1,8 @@
+* 構造化
+* 設定グループ
+* 引数による設定
+* snipet
+** 更新方法は?
+** snipet dirctory 構成
+* anything で ON/OFF
+* GUI
